@@ -1,0 +1,17 @@
+Fill in the following
+
+Feature and toggle name: 
+
+A sentence or two describing the feature:
+
+Expected outcome:
+
+Measure of outcome:
+
+Direction of outcome:
+
+Magnitude of outcome:
+
+Hypothesis statement:
+
+Statistical test:
